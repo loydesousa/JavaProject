@@ -1,9 +1,7 @@
 # JavaProject
-#
-# Nesse projeto temos um quiz de 5 questões, onde apliquei alguns conhecimentos de Java que tenho aprendido, captura e armazenamento de, if e else, além de estruturas for.
-#
-# Ele vai sendo modificado com o tempo, afinal sempre surgem mais perguntas😁
-# 
-# Enquanto isso, que tal jogar o QuizGame, será que você consegue acertar todas? 👀
-# Não vale ir para o Google😂
-# Tecnologias usadas: Java, VsCode e Git/Github👩‍💻
+### In this repository I'm gonna post some of my code projects in Java, keep your eyes in here e don't forget to follow me😁
+
+## 1-Quiz
+### Can you get all the questions? 👀
+- Don't check the answers on Google😂
+### Tools : Java, VsCode e Git/Github👩‍💻
